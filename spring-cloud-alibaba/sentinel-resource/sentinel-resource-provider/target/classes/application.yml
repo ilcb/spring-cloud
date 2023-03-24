@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: sentinel-resource-provider
+  cloud:
+    nacos:
+      server-addr: localhost:8848

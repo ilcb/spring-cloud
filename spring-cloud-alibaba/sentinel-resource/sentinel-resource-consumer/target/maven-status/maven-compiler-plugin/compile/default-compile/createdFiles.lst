@@ -1,0 +1,4 @@
+me/ilcb/sentinel/consumer/BuyController.class
+me/ilcb/SentinelResourceConsumerApplication.class
+me/ilcb/sentinel/consumer/reveal/BuyBlockHandler.class
+me/ilcb/sentinel/consumer/reveal/BuyFallBack.class

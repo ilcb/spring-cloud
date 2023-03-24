@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus/bus.iml" filepath="$PROJECT_DIR$/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/bus-config-client/bus-config-client.iml" filepath="$PROJECT_DIR$/bus/bus-config-client/bus-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/bus-config-server/bus-config-server.iml" filepath="$PROJECT_DIR$/bus/bus-config-server/bus-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus/bus-register-server/bus-register-server.iml" filepath="$PROJECT_DIR$/bus/bus-register-server/bus-register-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul/consul.iml" filepath="$PROJECT_DIR$/consul/consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul/consul-consumer/consul-consumer.iml" filepath="$PROJECT_DIR$/consul/consul-consumer/consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul/consul-provider/consul-provider.iml" filepath="$PROJECT_DIR$/consul/consul-provider/consul-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/consumer/consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-discovery/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-discovery/eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-rest-client/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/feign-rest-client/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-rest-client/feign-provider/feign-provider.iml" filepath="$PROJECT_DIR$/feign-rest-client/feign-provider/feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-rest-client/feign-rest-client.iml" filepath="$PROJECT_DIR$/feign-rest-client/feign-rest-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-rest-client/feign-server/feign-server.iml" filepath="$PROJECT_DIR$/feign-rest-client/feign-server/feign-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-circuit-breaker.iml" filepath="$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-circuit-breaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-consumer/hystrix-consumer.iml" filepath="$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-consumer/hystrix-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-provider/hystrix-provider.iml" filepath="$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-provider/hystrix-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-server/hystrix-server.iml" filepath="$PROJECT_DIR$/hystrix-circuit-breaker/hystrix-server/hystrix-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/nacos-config/nacos-config.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/nacos-config/nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/nacos-discovery.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/nacos-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/provider/provider.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/register-server/register-server.iml" filepath="$PROJECT_DIR$/config/register-server/register-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-loadbalance/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-loadbalance/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-loadbalance/ribbon-loadbalance.iml" filepath="$PROJECT_DIR$/ribbon-loadbalance/ribbon-loadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-loadbalance/ribbon-provider/ribbon-provider.iml" filepath="$PROJECT_DIR$/ribbon-loadbalance/ribbon-provider/ribbon-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-loadbalance/ribbon-server/ribbon-server.iml" filepath="$PROJECT_DIR$/ribbon-loadbalance/ribbon-server/ribbon-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/sentinel-dashboard/sentinel-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/sentinel-dashboard/sentinel-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/sentinel-resource-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/sentinel-resource-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource-provider/sentinel-resource-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/sentinel-resource/sentinel-resource-provider/sentinel-resource-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba.iml" filepath="$PROJECT_DIR$/spring-cloud-alibaba/spring-cloud-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-router/zuul-consumer/zuul-consumer.iml" filepath="$PROJECT_DIR$/zuul-router/zuul-consumer/zuul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-router/zuul-gateway/zuul-gateway.iml" filepath="$PROJECT_DIR$/zuul-router/zuul-gateway/zuul-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-router/zuul-provider/zuul-provider.iml" filepath="$PROJECT_DIR$/zuul-router/zuul-provider/zuul-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-router/zuul-router.iml" filepath="$PROJECT_DIR$/zuul-router/zuul-router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-router/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-router/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

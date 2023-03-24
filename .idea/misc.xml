@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-circuit-breaker/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-loadbalance/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-declarative-rest-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-router/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-router/zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/config-center/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/bus/pom.xml" />
+        <option value="$PROJECT_DIR$/consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba/nacos-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-alibaba/nacos-config/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-rest-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-discovery/eureka-provider/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

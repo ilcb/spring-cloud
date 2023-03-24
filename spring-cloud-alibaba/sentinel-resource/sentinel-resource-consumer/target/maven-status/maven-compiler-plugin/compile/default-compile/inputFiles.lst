@@ -1,0 +1,4 @@
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/src/main/java/me/ilcb/SentinelResourceConsumerApplication.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/src/main/java/me/ilcb/sentinel/consumer/BuyController.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/src/main/java/me/ilcb/sentinel/consumer/reveal/BuyBlockHandler.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/sentinel-resource/sentinel-resource-consumer/src/main/java/me/ilcb/sentinel/consumer/reveal/BuyFallBack.java

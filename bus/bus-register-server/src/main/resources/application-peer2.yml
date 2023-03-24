@@ -1,0 +1,16 @@
+server:
+  port: 7002
+
+spring:
+  application:
+    name: bus-register-server
+
+eureka:
+  instance:
+    hostname: peer2 #eureka服务端的实例名称
+
+  client:
+    register-with-eureka: true #false表示不向注册中心注册自己
+    fetch-registry: true
+    service-url:
+      defaultZone: http://peer1:7001/eureka/

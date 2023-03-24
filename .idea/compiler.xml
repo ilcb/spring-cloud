@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul-consumer" />
+        <module name="zuul-provider" />
+        <module name="config-client" />
+        <module name="bus-register-server" />
+        <module name="bus-config-client" />
+        <module name="consul-consumer" />
+        <module name="zuul-server" />
+        <module name="provider" />
+        <module name="nacos-config" />
+        <module name="sentinel-dashboard" />
+        <module name="ribbon-server" />
+        <module name="consul-provider" />
+        <module name="consumer" />
+        <module name="sentinel-resource-provider" />
+        <module name="hystrix-server" />
+        <module name="register-server" />
+        <module name="zuul-gateway" />
+        <module name="sentinel-resource-consumer" />
+        <module name="feign-provider" />
+        <module name="hystrix-consumer" />
+        <module name="config-server" />
+        <module name="ribbon-provider" />
+        <module name="ribbon-consumer" />
+        <module name="hystrix-provider" />
+        <module name="eureka-provider" />
+        <module name="feign-server" />
+        <module name="bus-config-server" />
+        <module name="feign-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bus" target="1.8" />
+      <module name="bus-config-client" target="1.8" />
+      <module name="bus-config-server" target="1.8" />
+      <module name="bus-register-server" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consul" target="1.8" />
+      <module name="consul-consumer" target="1.8" />
+      <module name="consul-provider" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-discovery" target="1.8" />
+      <module name="eureka-provider" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="feign-provider" target="1.8" />
+      <module name="feign-rest-client" target="1.8" />
+      <module name="feign-server" target="1.8" />
+      <module name="hystrix-circuit-breaker" target="1.8" />
+      <module name="hystrix-consumer" target="1.8" />
+      <module name="hystrix-provider" target="1.8" />
+      <module name="hystrix-server" target="1.8" />
+      <module name="nacos-config" target="1.8" />
+      <module name="nacos-discovery" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="register-server" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
+      <module name="ribbon-loadbalance" target="1.8" />
+      <module name="ribbon-provider" target="1.8" />
+      <module name="ribbon-server" target="1.8" />
+      <module name="ribbon-server (1)" target="1.8" />
+      <module name="sentinel-dashboard" target="1.8" />
+      <module name="sentinel-resource" target="1.8" />
+      <module name="sentinel-resource-consumer" target="1.8" />
+      <module name="sentinel-resource-provider" target="1.8" />
+      <module name="spring-cloud-alibaba" target="1.8" />
+      <module name="zuul-consumer" target="1.8" />
+      <module name="zuul-gateway" target="1.8" />
+      <module name="zuul-provider" target="1.8" />
+      <module name="zuul-router" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bus" options="" />
+      <module name="bus-config-client" options="-parameters" />
+      <module name="bus-config-server" options="-parameters" />
+      <module name="bus-register-server" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="consul-consumer" options="-parameters" />
+      <module name="consul-provider" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="eureka-consumer" options="-parameters" />
+      <module name="eureka-provider" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="feign-consumer" options="-parameters" />
+      <module name="feign-provider" options="-parameters" />
+      <module name="feign-server" options="-parameters" />
+      <module name="hystrix-consumer" options="-parameters" />
+      <module name="hystrix-provider" options="-parameters" />
+      <module name="hystrix-server" options="-parameters" />
+      <module name="nacos-config" options="-parameters" />
+      <module name="provider" options="-parameters" />
+      <module name="register-server" options="-parameters" />
+      <module name="ribbon-consumer" options="-parameters" />
+      <module name="ribbon-provider" options="-parameters" />
+      <module name="ribbon-server" options="-parameters" />
+      <module name="ribbon-server (1)" options="-parameters" />
+      <module name="sentinel-dashboard" options="-parameters" />
+      <module name="sentinel-resource-consumer" options="-parameters" />
+      <module name="sentinel-resource-provider" options="-parameters" />
+      <module name="zuul-consumer" options="" />
+      <module name="zuul-gateway" options="" />
+      <module name="zuul-provider" options="" />
+      <module name="zuul-server" options="" />
+    </option>
+  </component>
+</project>

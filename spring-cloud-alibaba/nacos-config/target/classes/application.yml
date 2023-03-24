@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: nacos-config
+  main:
+    allow-bean-definition-overriding: true
+
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        ext-config[0]:
+          data-id: app.properties
+          group: multi-data-ids
+          refresh: true
+        ext-config[1]:
+          data-id: datasource.properties
+          group: multi-data-ids
+        ext-config[2]:
+          data-id: redis.properties
+          group: multi-data-ids
+

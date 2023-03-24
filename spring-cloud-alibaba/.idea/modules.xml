@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-config-demo/nacos-spring-cloud-config-demo.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-config-demo/nacos-spring-cloud-config-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-config-multi-data-ids-demo.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-config-multi-data-ids-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-discovery-demo.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/nacos-spring-cloud-discovery-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/service-consumer-demo/service-consumer-demo.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/service-consumer-demo/service-consumer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/service-provider-demo/service-provider-demo.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud-discovery-demo/service-provider-demo/service-provider-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/service/impl/UserServiceImpl.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/dao/UserRepository.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/NacosConfigApplication.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/controller/UserController.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/service/UserService.java
+/Users/lichengbin/spring-cloud/spring-cloud-alibaba/nacos-config/src/main/java/me/ilcb/model/User.java

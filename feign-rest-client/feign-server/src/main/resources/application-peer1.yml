@@ -1,0 +1,18 @@
+server:
+  port: 7001
+
+spring:
+  application:
+    name: feign-server
+
+eureka:
+  instance:
+    hostname: peer1 #eureka服务端的实例名称
+
+  client:
+    register-with-eureka: true #false表示不向注册中心注册自己
+    fetch-registry: true
+    service-url:
+      defaultZone: http://peer2:7002/eureka/
+  server:
+    enable-self-preservation: false

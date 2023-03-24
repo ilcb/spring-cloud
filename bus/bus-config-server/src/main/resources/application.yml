@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: bus-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ilcb/config-center.git
+          username: xxx
+          password: xxx
+          default-label: main
+
+server:
+  port: 11001
+
+security:
+  user:
+    name: test
+    password: test
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:7001/eureka,http://peer2:7002/eureka
+
+
+

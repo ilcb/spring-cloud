@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      name: config
+      profile: test
+      label: main
+      uri: http://localhost:11001
+      username: test
+      password: test
+
+server:
+  port: 11002
+
+security:
+  user:
+    name: test
+    password: test
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:7001/eureka,http://peer2:7002/eureka

@@ -1,0 +1,21 @@
+server:
+  port: 9001 #服务端口号
+spring:
+  application:
+    name: hystrix-consumer  #微服务名称，对外暴漏的微服务名称，十分重要
+
+eureka:
+  client: #将客户端注册到 eureka 服务列表内
+    service-url:
+      defaultZone: http://peer1:7001/eureka/,http://peer2:7002/eureka
+    register-with-eureka: true
+    fetch-registry: true
+
+#  instance:
+#    instance-id: hystrix-consumer
+#    #显示访问路径的 ip 地址
+#    prefer-ip-address: true
+
+
+
+

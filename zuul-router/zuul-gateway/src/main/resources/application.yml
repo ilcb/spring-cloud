@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: zuul-gateway
+
+server:
+  port: 10001
+
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      url: http://localhost:8001
+    api-b:
+      path: /api-b/**
+      serviceId: zuul-provider
+    api-c:
+      path: /api-c/**
+      serviceId: zuul-consumer
+    api-e:
+      path: /api-e/**
+      url: forward:/test
+
+eureka:
+  client: #将客户端注册到 eureka 服务列表内
+    service-url:
+      defaultZone: http://peer1:7001/eureka/,http://peer2:7002/eureka
+    register-with-eureka: true
+    fetch-registry: true
